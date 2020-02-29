@@ -1,3 +1,10 @@
 body{
     background-color: rgb(79, 214, 147);
 }
+p{
+    color: rgb(153, 18, 18);
+}
+h1{
+    font-size: 9em;
+    color: rgb(224, 224, 28);
+}
